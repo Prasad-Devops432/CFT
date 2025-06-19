@@ -1,0 +1,12 @@
+/aws-asg-project/
+# Project Structure
+├── cft-templates/
+│   ├── vpc.yaml
+│   ├── autoscaling.yaml
+│   └── bastion.yaml
+├── scripts/
+│   └── install_python.sh
+├── diagrams/
+│   └── architecture.png
+└── README.md
+# AWS Auto Scaling Group Project
